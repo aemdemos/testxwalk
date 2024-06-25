@@ -1,4 +1,5 @@
 mountpoints:
-  /: "https://author-p135502-e1347863.adobeaemcloud.com/bin/franklin.delivery/aemdemos/testxwalk/main"
+  /: 
+    url: "https://author-p135502-e1347863.adobeaemcloud.com/bin/franklin.delivery/aemdemos/testxwalk/main"
     type: "markup"
     suffix: ".html"
